@@ -108,7 +108,12 @@ __굵게__
 
 <pre>
   <code>
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+@SpringBootApplication
+public class SunfishDevApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(SunfishDevApplication.class, args);
+	}
+}
   </code>
 </pre>
 
