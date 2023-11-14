@@ -13,6 +13,11 @@ code
 [GOOGLE](https://google.com)
 
 
+문서 안에 [참조 링크]를 사용할 수 있다.
+
+[참조 링크]: https://github.co
+
+
 
 <!--
 **jinnkyeong/jinnkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
