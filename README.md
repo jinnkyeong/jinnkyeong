@@ -19,6 +19,51 @@ code
 
 
 
+<details>
+  <summary>toggle</summary>
+
+  내용이 여기에 들어갑니다.
+
+</details>
+
+
+- [ ] 할 일
+- [X] 한 일
+
+
+| 카테고리 | 마크업 | HTML |
+|:---|:---:|---:|
+| 우측정렬 | `:---` | text-align: right |
+| 가운데 정렬 | `:---:` | text-align: center |
+| 왼쪽 정렬 | `---:` | text-align: left |
+
+
+
+![Keyword](/path/to/img.jpg)
+
+<img src="/path/to/img.jpg" width="200px" height="200px" title="px(픽셀) 크기 설정" alt="Gparkkii's Zepeto"></img><br/>
+
+<figure align="center">
+<img src="https://avatars.githubusercontent.com/u/71811780?v=4" alt="Gparkkii's Zepeto"></img>
+<figcaption>Gparkkii's Zepeto</figcaption>
+</figure>
+
+
+
+```html
+<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+```
+
+```css
+h3 {
+  font-size: 25px;
+  color: #757575;
+}
+```
+
+<!-- 또는  -->
+    2개의 탭 들여쓰기 사용
+
 <!--
 **jinnkyeong/jinnkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
