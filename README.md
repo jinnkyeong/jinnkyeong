@@ -19,12 +19,30 @@ __굵게__
 <!-- 인용 : > -->
 > 나는 개발하는 개복치다.
 
+
+
+
+<!-- 리스트 -->
+
 1. first
 2. second
 3. third
 
-'u'
-<u>uuuu</u>
+1. 숫자 1
+    * 별 하나
+    * 별 둘
+    - 별 셋
+2. 숫자 2
+    1. 숫자 11
+    3. 숫자 22
+    	* 별 하나하나
+3. 숫자 3
+
+
+
+
+
+<!-- 링크 -->
 
 [GOOGLE](https://google.com)
 
@@ -35,6 +53,10 @@ __굵게__
 
 
 
+
+
+<!-- 토글 -->
+
 <details>
   <summary>toggle</summary>
 
@@ -43,9 +65,16 @@ __굵게__
 </details>
 
 
+
+
+<!-- 인용 : > -->
+
 - [ ] 할 일
 - [X] 한 일
 
+
+
+<!-- 표 -->
 
 | 카테고리 | 마크업 | HTML |
 |:---|:---:|---:|
@@ -53,6 +82,9 @@ __굵게__
 | 가운데 정렬 | `:---:` | text-align: center |
 | 왼쪽 정렬 | `---:` | text-align: left |
 
+
+
+<!-- 이미지 -->
 
 
 ![Keyword](/path/to/img.jpg)
@@ -66,9 +98,19 @@ __굵게__
 
 
 
+
+<!-- 코드 -->
+
+
 ```html
 <a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
 ```
+
+<pre>
+  <code>
+<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+  </code>
+</pre>
 
 ```css
 h3 {
@@ -78,21 +120,32 @@ h3 {
 ```
 
 <!-- 또는  -->
-    2개의 탭 들여쓰기 사용
+    2개의 탭 들여쓰기(= 4개 띄어쓰기) 사용
 
 
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
-
-gparkkii === happy coder
 
 
-예를 들어 갑자기 <span style="color: red">폰트 색상</span>을 바꾸고 싶다던지..
 
 
+
+<!-- 각주 -->
 
 이것은 각주를 사용한 문장입니다.[^각주]
 
 [^각주]: 각주 내용입니다. 여기에 추가적인 설명이나 참고 자료를 작성할 수 있습니다.
+
+
+
+
+
+* * *
+***
+*****
+*********************
+- - -
+---
+-----
+---------------------
 
 
 <!--
