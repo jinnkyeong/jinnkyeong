@@ -70,7 +70,7 @@ h3 {
 gparkkii === happy coder
 
 
-예를 들어 갑자기 <span style="color: hotpink">폰트 색상</>을 바꾸고 싶다던지..
+예를 들어 갑자기 <span style="color: pink">폰트 색상</>을 바꾸고 싶다던지..
 
 
 
