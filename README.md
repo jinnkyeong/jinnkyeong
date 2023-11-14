@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 메롱메롱
-H2:하이
+H2: 하이
 
 <!--
 **jinnkyeong/jinnkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
