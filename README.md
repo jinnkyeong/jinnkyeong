@@ -108,10 +108,10 @@ __굵게__
 
 <pre>
   <code>
-@SpringBootApplication
-public class SunfishDevApplication {
-	public static void main(String[] args) {
-		SpringApplication.run(SunfishDevApplication.class, args);
+	@SpringBootApplication
+	public class SunfishDevApplication {
+		public static void main(String[] args) {
+			SpringApplication.run(SunfishDevApplication.class, args);
 	}
 }
   </code>
