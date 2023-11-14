@@ -3,6 +3,9 @@
 하이
 -------------
 code
+1. first
+2. second
+3. third
 <!--
 **jinnkyeong/jinnkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
